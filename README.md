@@ -6,7 +6,7 @@ The repository include:
 - R code with the patent landscape analysis;
 - a summary report with comments about the analysis.
 
-Variables in "data.csv" are:
+Variables in "data.xlsx" are:
 - Publication_number: ID of the patent;
 - Publication_year: Publication year of the patent;
 - Currentowners: Applicant's name;
